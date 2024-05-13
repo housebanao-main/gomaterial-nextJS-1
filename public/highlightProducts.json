@@ -1,0 +1,35 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Tiles/Granite",
+        "description": "Premium Italian Marble",
+        "image": "/tiles.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Bathroom Fittings",
+        "description": "High-quality fittings for your bathroom",
+        "image": "/bathroom.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Electrical Appliances",
+        "description": "Energy-efficient electrical appliances",
+        "image": "/electricity.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Lights",
+        "description": "Modern and stylish lighting solutions",
+        "image": "/lights.png"
+      },
+      {
+        "id": 5,
+        "name": "Chimny",
+        "description": "High-quality sanitary ware for your home",
+        "image": "/chimny.png"
+      }
+    ]
+  }
+  

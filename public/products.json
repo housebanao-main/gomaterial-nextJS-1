@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "name": "Basin",
+        "image": "/basin.png",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "name": "Modular Kitchen",
+        "image": "/plywood.jpeg",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "name": "Clocks",
+        "image": "/clock.png",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "name": "Tiles",
+        "image": "/tiles.jpg",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "name": "Shower Set",
+        "image": "/bathroom.jpeg",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "name": "Chimney",
+        "image": "/chimny.png",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "name": "Lights",
+        "image": "/lights.png",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "name": "Electric Decoratives",
+        "image": "/electricity.jpeg",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ]
+  }
+  
