@@ -13,7 +13,7 @@ const TabButton = ({ isActive, onClick, children }) => (
 
 const ServiceIcon = ({ icon }) => (
   <div className="h-20 w-20 bg-blue-200 rounded-full flex items-center justify-center mx-auto mb-4">
-    <FontAwesomeIcon icon={icon} className="text-blue-600 text-4xl" />
+    <FontAwesomeIcon icon={icon} className="text-blue-600 h-8 text-3xl" />
   </div>
 );
 
